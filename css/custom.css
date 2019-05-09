@@ -14,16 +14,31 @@
     background-size: cover;
 }
 .masthead h1 {
-    color: rgb(213, 214, 215, 0.6);
+    color: rgba(255, 255, 255, 0.6);
     font-size: 6.5rem;
     line-height: 6.5rem;
     letter-spacing: .8rem;
 }
 .masthead h2 {
-    color: rgba(255,255,255,.6);
+    color: rgba(255, 255, 255, 0.6)!important;
     max-width: 30rem;
     font-size: 1.25rem;
 }
+.btn {
+    -webkit-box-shadow: 0 .1875rem .1875rem 0 rgba(0,0,0,.1)!important;
+    box-shadow: 0 .1875rem .1875rem 0 rgba(0,0,0,.1)!important;
+    padding: 1.25rem 2rem;
+    font-size: 80%;
+    text-transform: uppercase;
+    letter-spacing: .15rem;
+    border: 0;
+}
+.btn-primary {
+    background-color: #132f2d;
+}
+/* .semore:hover {
+    color: #64a19d!important;
+} */
 
 
 /* PROJECTS */
