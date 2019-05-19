@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Rinor Ahmeti",
+        "company" : "ACK",
+        "phone" : "+38345100062"
+    },
+    {
+        "id" : 2,
+        "name" : "Rejan Ahmeti",
+        "company" : "Dukagjini",
+        "phone" : "+38345156531"
+    },
+    {
+        "id" : 3,
+        "name" : "Suhel Ahmeti",
+        "company" : "ACK",
+        "phone" : "+38344848800"
+    },
+    {
+        "id" : 4,
+        "name" : "Remzi Shabani",
+        "company" : "Elkos",
+        "phone" : "+38349235982"
+    },
+    {
+        "id" : 5,
+        "name" : "Muhamet Humolli",
+        "company" : "Ubt",
+        "phone" : "+38344178981"
+    }
+]
