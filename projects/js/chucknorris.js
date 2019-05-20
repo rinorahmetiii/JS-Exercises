@@ -29,8 +29,6 @@ function getJokes(e) {
     }
 
     xhr.send();
-    // Shembull i asynchronous code ,kjo shfaqet e para deri sa api kryen punen me te dhena
-    document.querySelector('.jokess').innerHTML = '<div><h1>This is being displayed first , asynchronous code next</h1></div>';
 
     e.preventDefault();
 }
