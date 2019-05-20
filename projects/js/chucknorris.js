@@ -29,6 +29,8 @@ function getJokes(e) {
     }
 
     xhr.send();
+    // Shembull i asynchronous code 
+    document.querySelector('.jokess').innerHTML = '<div><h1>This is being displayed first , asynchronous code next</h1></div>';
 
     e.preventDefault();
 }
